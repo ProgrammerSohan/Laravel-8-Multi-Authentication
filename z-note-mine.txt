@@ -1,0 +1,9 @@
+Email: admin@itsolutionstuff.com
+
+Password: 123456
+-----------------
+Email: user@itsolutionstuff.com
+
+Password: 123456
+------------------
+https://www.itsolutionstuff.com/post/laravel-8-multi-auth-authentication-tutorialexample.html
